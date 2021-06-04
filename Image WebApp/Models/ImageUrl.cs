@@ -7,7 +7,7 @@ namespace Image_WebApp.Models
 {
     public class ImageUrl
     {
-        public int ImageId { get; set; }
+        public int ID { get; set; }
         public string ImageName { get; set; }
         public string Url { get; set; }
 
